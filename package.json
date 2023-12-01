@@ -22,7 +22,7 @@
     "clean": "ets clean"
   },
   "dependencies": {
-    "egg": "^2.6.1",
+    "egg": "^3.10.0",
     "egg-error-display": "^1.5.9",
     "egg-grpc-client-ts": "^3.0.2",
     "egg-scripts": "^2.6.0"
