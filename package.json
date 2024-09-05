@@ -22,10 +22,10 @@
     "clean": "ets clean"
   },
   "dependencies": {
-    "egg": "^2.6.1",
+    "egg": "^3.23.0",
     "egg-error-display": "^1.5.9",
     "egg-grpc-client-ts": "^3.0.2",
-    "egg-scripts": "^2.6.0"
+    "egg-scripts": "^3.0.0"
   },
   "devDependencies": {
     "@types/mocha": "^2.2.40",
